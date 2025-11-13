@@ -1,0 +1,3 @@
+What is KNN?
+K-Nearest Neaghbours (KNN) is a non-parametric, instance based machine learning algorithm used for classification and regression tasks.
+"intance-based" means it doesn't build an explicit model during training. Instead, it memorizes 
