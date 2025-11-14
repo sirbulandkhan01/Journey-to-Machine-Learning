@@ -1,0 +1,18 @@
+Equation of Linear Regression is
+Y = mX + b
+(Also known as equation of slope)
+
+- (Y) represents dependent variable
+- (X) represents Independent variables
+- (m) m is the slope of the line
+- (b) is the intercept. (The value of Y when X is 0)
+
+To Find:
+m: we have     m = Sum of products of deviations / Sum of square deviations for X
+b: we have     b = Mean of Y - (m * Mean of X)
+
+Graphical Representation:
+The graph of Linear Regression will always be Straight line or slope as the name suggest(linear).
+It can be Inclining or declining both.
+
+In real life we have data in scattered form. so some values may deviate from the straight line or fit, we call them Out liars or Errors.
