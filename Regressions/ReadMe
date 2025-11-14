@@ -1,6 +1,5 @@
 WHAT IS REGRESSION?
-Regression is a static method that helps us understand and predict the relationship between the variables. It describes how one variable (dependent variable) changes with
-the change in another variable.
+Regression is a static method that helps us understand and predict the relationship between the variables. It describes how one variable (dependent variable) changes with the change in another variable.
 
 -> Dependent Variable (Y): We are trying to predict or explain.
 -> Independent Variable (X): Which is used to predict the dependent variable.
